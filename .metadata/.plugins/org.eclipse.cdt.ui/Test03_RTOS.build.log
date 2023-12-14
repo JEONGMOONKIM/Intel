@@ -1,0 +1,10 @@
+15:37:55 **** Incremental Build of configuration Debug for project Test03_RTOS ****
+make -j4 all 
+arm-none-eabi-size  Test03_RTOS.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25664	    116	  18436	  44216	   acb8	Test03_RTOS.elf
+Finished building: default.size.stdout
+ 
+
+15:37:56 Build Finished. 0 errors, 0 warnings. (took 414ms)
+
