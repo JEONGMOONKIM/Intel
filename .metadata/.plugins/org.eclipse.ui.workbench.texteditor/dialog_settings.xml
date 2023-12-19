@@ -6,8 +6,11 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="HAL_TIM_Per"/>
+		<item key="selection" value="GetD"/>
 		<list key="findhistory">
+			<item value="getD"/>
+			<item value="call"/>
+			<item value="B1"/>
 			<item value="HAL_TIM_Per"/>
 			<item value="hal_tim"/>
 			<item value="hal"/>
